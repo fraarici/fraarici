@@ -1,5 +1,7 @@
 # Master Colloquium 2025/2026
-## Schedule
+## Schedule Guest Speakers
+
+All lectures will take place in room BE0.17
 
 | Date  | Time | Speaker|
 | ------------- | ------| ------------- |
