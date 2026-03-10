@@ -427,9 +427,9 @@ ninja.data = [{
           description: "The noncommutative geometry of sphere bundles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/veni/";
-            },},{id: "projects-vidi",
-          title: 'Vidi',
-          description: "",
+            },},{id: "projects-vidi-grant",
+          title: 'Vidi Grant',
+          description: "From Ideals to Quantum Spaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vidi/";
             },},{id: "teachings-data-science-fundamentals",
