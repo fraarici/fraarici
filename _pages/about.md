@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.universiteitleiden.nl/en/science/mathematics'>Mathematical Institute Leiden University</a> Einsteinweg 55. 2333CC Leiden.
+subtitle: <a href='https://www.universiteitleiden.nl/en/science/mathematics'>Mathematical Institute Leiden University</a>. 
 
 profile:
   align: right
   image: francesca-arici.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>BW1.09 Gorlaeus Building</p>
+      <p>Room: BW1.09 Gorlaeus Building</p>
+      <p>Einsteinweg 55. </p>
+      <p>2333CC Leiden. </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
