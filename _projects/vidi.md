@@ -4,7 +4,7 @@ title: Vidi
 description: 
 img: assets/img/4.jpg
 importance: 1
-category: grant
+category: grants
 related_publications: true
 ---
 
