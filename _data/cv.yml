@@ -4,7 +4,7 @@ cv:
   email: f.arici@math.leidenuniv.nl
   location: Leiden, the Netherlands
   image: "francesca-arici.jpg"
-  summary: 
+  summary: Mathematician
   social_networks:
     - network: GitHub
       username: fraarici
@@ -15,7 +15,6 @@ cv:
     postalCode: 2333 CC
     city: Leiden
     countryCode: NL
-    
   sections:
     Education:
       - institution: SISSA
@@ -38,25 +37,18 @@ cv:
         start_date: 2019-04-01
         end_date: 2019-08-31
         summary: Postdoctoral Fellow supported by an NWO Veni Grant
-
       - company: Max Planck Institute for Mathematics in the Sciences
         position: Scientific Outreach Mananger and Researcher
         location: Leipzig, Germany
         start_date: 2018-02-15
         end_date: 2019-03-31
-
     Languages:
       - name: Italian
         summary: "Native speaker"
-
       - name: English, Dutch, German
         summary: "Fluent"
-
-
-
     Projects:
       - name: From Ideals to Quantum Spaces.
-        summary:
+        summary: NWO Vidi Grant
         start_date: 2026-01-01
-      #  end_date: 2018-01-01
     
