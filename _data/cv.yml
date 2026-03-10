@@ -14,7 +14,7 @@ cv:
 
   address:
     street: Einsteinweg 55
-      postalCode: 2333 CC
+    postalCode: 2333 CC
     city: Leiden
     countryCode: NL
 
@@ -27,9 +27,7 @@ cv:
         studyType: PhD
         start_date: 2011
         end_date: 2015
-        score: "cum laude"
-         
-
+        score: "cum laude"      
       - institution: Università Cattolica del Sacro Cuore
         location: Brescia, Italy
         area: Mathematics
@@ -37,12 +35,10 @@ cv:
         end_date: 2011
 
     Experience:
-     company: Radboud University Nijmegen
- #       position: Professor of Theoretical Physics
-  #      location: Princeton University, NJ
+      - company: Radboud University Nijmegen
         start_date: 2019
         end_date: 2019
-       summary: NWO Veni Fellow
+        summary: NWO Veni Fellow
        #  highlights:
        #   - Relativity
         #  - Description 2.
@@ -125,5 +121,5 @@ cv:
 
  #     - name: Professor Jane Smith
   #      icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+     #   reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 #
