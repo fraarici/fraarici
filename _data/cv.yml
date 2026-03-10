@@ -20,7 +20,7 @@ cv:
     Education:
       - institution: SISSA
         location: Trieste, Italy
-        url: https://www.uzh.ch/
+        url: https://www.sissa.it/
         area: Mathematical Physics
         studyType: PhD
         start_date: 2011-10-01
@@ -30,7 +30,7 @@ cv:
         location: Brescia, Italy
         area: Mathematics
         studyType: MSc
-        end_date: 2011
+        end_date: 2011-04
     Experience:
       - company: Radboud University Nijmegen
         location: Nijmegen, the Netherlands
