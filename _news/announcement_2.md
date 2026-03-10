@@ -8,10 +8,8 @@ related_posts: false
 
 
 I will be on leave from April 22nd to August 18th. 
-Below are the contact details of colleagues you can reach out to for questions.
 
-NCG in Leiden questions: Bram Mesland.
-Emergence at All Scales Workpackage 3.
+
 
 
 
