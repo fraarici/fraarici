@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Leave
+title: On leave from April 22nd to August 18th.
 date: 2026-03-10 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
 
-I will be on leave from April 22nd to August 18th.
+I will be on leave from April 22nd to August 18th. 
+Below are the contact details of colleagues you can reach out to for questions.
+
+NCG in Leiden questions: Bram Mesland.
+Emergence at All Scales Workpackage 3.
+
+
 
 
 <!--
