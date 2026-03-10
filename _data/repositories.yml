@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fraarici
+  - NCG-Leiden
+  
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - quasymodo
+  - NCG-Leiden.github.io
+  - MScColl
