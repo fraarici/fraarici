@@ -33,9 +33,10 @@ cv:
         end_date: 2011
     Experience:
       - company: Radboud University Nijmegen
+        position: NWO Veni Fellow
         start_date: 2019-04-01
         end_date: 2019-08-31
-        summary: NWO Veni Fellow
+        summary: Postdoctoral Fellow supported by an NWO Veni Grant
 
       - company: Max Planck Institute for Mathematics in the Sciences
         position: Scientific Outreach Mananger and Researcher
