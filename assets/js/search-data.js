@@ -392,11 +392,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-proof-stage",
+          title: 'The Proof Stage',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_proofstage/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
