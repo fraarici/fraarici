@@ -15,6 +15,4 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 # {% include courses.liquid %}
 
-# {% endcomment %}
-
 --> 
