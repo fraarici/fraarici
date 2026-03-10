@@ -2,15 +2,17 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Veni.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The proposed research focuses on the construction of quantum spheres. Spheres are highly symmetrical mathematical forms believed to encode perfection. Gluing them together in a suitable way one can construct new spaces which possess interesting mathematical features. This project analyses quantum analogues of such constructions, with the goal of making the tools of algebraic topology available for quantum theory.
+
+<a href="https://www.nwo.nl/en/projects/016veni192237" target="_blank">Read More</a>
+
+<!--
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
