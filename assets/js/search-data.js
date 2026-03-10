@@ -437,11 +437,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
@@ -457,6 +452,11 @@ ninja.data = [{
           description: "The noncommutative geometry of sphere bundles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/veni/";
+            },},{id: "projects-vidi",
+          title: 'Vidi',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vidi/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
