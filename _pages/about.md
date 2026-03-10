@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Leiden University</a>. 
+permalink: 
+subtitle: <a href='https://www.universiteitleiden.nl/en/science/mathematics'>Mathematical Institute Leiden University</a> 
 
 profile:
   align: right
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
