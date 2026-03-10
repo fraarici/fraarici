@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Veni Grant
+description: The noncommutative geometry of sphere bundles
 img: assets/img/as-you-like-it_manRay.jpg
 importance: 1
 category: work
