@@ -400,8 +400,8 @@ ninja.data = [{
             },},{id: "news-i-have-been-awarded-a-vidi-grant-from-nwo-to-study-the-noncommutative-geometry-of-quantum-symmetric-domains",
           title: 'I have been awarded a Vidi Grant from NWO to study the Noncommutative...',
           description: "",
-          section: "News",},{id: "news-leave",
-          title: 'Leave',
+          section: "News",},{id: "news-on-leave-from-april-22nd-to-august-18th",
+          title: 'On leave from April 22nd to August 18th.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
