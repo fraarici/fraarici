@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: <a href='https://www.universiteitleiden.nl/en/science/mathematics'>Mathematical Institute Leiden University</a> 
 
 profile:
