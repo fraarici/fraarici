@@ -417,11 +417,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-veni-grant",
           title: 'Veni Grant',
           description: "The noncommutative geometry of sphere bundles",
