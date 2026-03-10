@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "fraarici/fraarici",
+    "data-repo": "fraarici/fraarici.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
