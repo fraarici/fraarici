@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: /assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>BW1.09 Gorlaeus Building</p>
