@@ -33,6 +33,7 @@ cv:
         end_date: 2011
     Experience:
       - company: Radboud University Nijmegen
+        location: Nijmegen, the Netherlands
         position: NWO Veni Fellow
         start_date: 2019-04-01
         end_date: 2019-08-31
