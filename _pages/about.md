@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an assistant professor in mathematics affiliated to the Analysis and Dynamical Systems section at Leiden University.
+I am an assistant professor in mathematics affiliated to the Analysis and Dynamical Systems section at the Mathematical Insistitute at Leiden University.
 
 I am a member of the NCG group.
 
