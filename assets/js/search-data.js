@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Past and Ongoing Projects",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -473,6 +480,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%66.%61%72%69%63%69@%6D%61%74%75.%6C%65%69%64%65%6E%75%6E%69%76.%6E%6C", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-8326-6135", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/francesca-arici", "_blank");
         },
       },{
         id: 'social-scholar',
