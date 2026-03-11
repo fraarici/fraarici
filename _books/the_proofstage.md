@@ -8,4 +8,3 @@ cover: assets/img/book_covers/proofstage.jpg
 stars: 5
 status: Finished
 ---
-
