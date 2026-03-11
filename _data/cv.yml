@@ -24,12 +24,12 @@ cv:
         studyType: PhD
         start_date: 2011-10-01
         end_date: 2015-09-28
-        score: "cum laude"      
+        score: "cum laude"
       - institution: Università Cattolica del Sacro Cuore
         location: Brescia, Italy
         area: Mathematics
         studyType: MSc
-        end_date: 2011-04
+        end_date: 2011-04-28
     Experience:
       - company: Radboud University Nijmegen
         location: Nijmegen, the Netherlands
