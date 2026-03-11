@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: bookshelf
     permalink: /books/
+  - title: repositories
+    permalink: /repositories/
 ---
