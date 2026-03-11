@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vidi Grant
-description: From Ideals to Quantum Spaces
+title: From Ideals to Quantum Spaces
+description: 2024 NWO Vidi Grant
 img: assets/img/4.jpg
 importance: 1
 category: grants
