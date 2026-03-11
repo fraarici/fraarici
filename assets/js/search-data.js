@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-the-noncommutative-geometry-of-sphere-bundles",
-          title: 'The noncommutative geometry of sphere bundles',
+            },},{id: "projects-the-ncg-of-sphere-bundles",
+          title: 'The NCG of sphere bundles',
           description: "2018 NWO Veni Grant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/veni/";
