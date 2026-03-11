@@ -31,7 +31,7 @@ I am an assistant professor in mathematics affiliated to the Analysis and Dynami
 
 I am a member of the NCG group.
 
-My research is currently supported by NWO throught the Vidi grant <a href="https://www.nwo.nl/projecten/mhsor46590" target"_blank>The Noncommutative Geometry of Quantum Symmetric Domains</a>.
+My research is currently supported by NWO throught the Vidi grant <a href="https://www.nwo.nl/projecten/mhsor46590" target="_blank">The Noncommutative Geometry of Quantum Symmetric Domains</a>.
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
