@@ -2,7 +2,6 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description:
 ---
 
 
