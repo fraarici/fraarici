@@ -1,12 +1,8 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: "Francesca Arici"
 first_name: Francesca
 last_name: Arici
 url: https://fraarici.github.io # or your custom domain
-baseurl: # Leave this empty (do NOT delete it)
+baseurl: 
 
 contact_note: contact by email is preferred.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
