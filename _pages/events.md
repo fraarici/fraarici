@@ -13,7 +13,7 @@ nav_order: 6
   
 {% for item in future_conferences %}  
   <div class="conference-item">  
-    <h3>{{ item.title }}</h3>  
+    <h4>{{ item.title }}</h4>  
     <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
     <p><strong>Location:</strong> {{ item.location }}</p>  
     {{ item.content }}  
@@ -24,7 +24,7 @@ nav_order: 6
   
 {% for item in past_conferences %}  
   <div class="conference-item">  
-    <h3>{{ item.title }}</h3>  
+    <h4>{{ item.title }}</h4>  
     <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
     <p><strong>Location:</strong> {{ item.location }}</p>  
     {{ item.content }}  
