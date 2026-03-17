@@ -412,7 +412,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_proofstage/";
             },},{id: "events-nc-function-theory-the-non-commutative-frontier-of-analysis-and-algebra",
-          title: 'NC function theory: The non-Commutative Frontier of Analysis and Algebra,',
+          title: 'NC function theory: The non-Commutative Frontier of Analysis and Algebra',
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2025-05-04/";
