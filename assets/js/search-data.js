@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
-        },{id: "nav-events",
-          title: "events",
-          description: "list of events in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/events/";
-          },
         },{id: "nav-service",
           title: "service",
           description: "",
