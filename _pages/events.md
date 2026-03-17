@@ -6,8 +6,8 @@ nav: true
 nav_order: 6  
 ---  
   
-{% assign future_conferences = site.conferences | where_exp: "item", "item.date >= site.time" | sort: 'date' %}  
-{% assign past_conferences = site.conferences | where_exp: "item", "item.date < site.time" | sort: 'date' | reverse %}  
+{% assign future_conferences = site.events | where_exp: "item", "item.date >= site.time" | sort: 'date' %}  
+{% assign past_conferences = site.events | where_exp: "item", "item.date < site.time" | sort: 'date' | reverse %}  
   
 ## Upcoming Conferences  
 
