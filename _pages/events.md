@@ -9,12 +9,12 @@ nav_order: 6
 {% assign future_conferences = site.events | where_exp: "item", "item.date >= site.time" | sort: 'date' %}  
 {% assign past_conferences = site.events | where_exp: "item", "item.date < site.time" | sort: 'date' | reverse %}  
   
-## Upcoming Conferences  
+### Upcoming Conferences  
 
   {% if future_conferences.size > 0 %}
 {% for item in future_conferences %}  
   <div class="conference-item">  
-    <h4>{{ item.title }}</h4>  
+    <p><strong>{{ item.title }}</strong>{  
     <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
     <p><strong>Location:</strong> {{ item.location }}</p>  
     {{ item.content }}  
@@ -26,11 +26,11 @@ nav_order: 6
 {% endif %}
 
   
-## Past Conferences  
+### Past Conferences  
   
 {% for item in past_conferences %}  
   <div class="conference-item">  
-    <h4>{{ item.title }}</h4>  
+    <p><strong>{{ item.title }}</strong></p>  
     <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
     <p><strong>Location:</strong> {{ item.location }}</p>  
     {{ item.content }}  
