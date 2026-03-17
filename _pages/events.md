@@ -36,4 +36,3 @@ nav_order: 6
     {{ item.content }}  
   </div>  
 {% endfor %}
-</div>
