@@ -416,8 +416,8 @@ ninja.data = [{
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2025-05-04/";
-            },},{id: "events-noncommutative-geometry-along-the-north-sea",
-          title: 'Noncommutative geometry along the North Sea',
+            },},{id: "events-",
+          title: '',
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2025-05-26/";
