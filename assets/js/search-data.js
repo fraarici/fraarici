@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-events",
           title: "events",
-          description: "",
+          description: "here you can find a list of upcoming and past events.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
