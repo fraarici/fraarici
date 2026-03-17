@@ -2,6 +2,7 @@
 layout: page  
 title: events
 permalink: /events/  
+description: here you can find a list of upcoming and past events.
 nav: true  
 nav_order: 6  
 ---  
