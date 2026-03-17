@@ -8,7 +8,8 @@ nav_order: 6
   
 {% assign future_conferences = site.events | where_exp: "item", "item.date >= site.time" | sort: 'date' %}  
 {% assign past_conferences = site.events | where_exp: "item", "item.date < site.time" | sort: 'date' | reverse %}  
-  
+
+  <div class="container">
 ### Upcoming Conferences and Workshops
 
   {% if future_conferences.size > 0 %}
@@ -24,8 +25,9 @@ nav_order: 6
 {% else %}
   <p>No upcoming conferences.</p>
 {% endif %}
+</div>
 
-  
+<div class="container">
 ### Past Events 
   
 {% for item in past_conferences %}  
@@ -36,3 +38,4 @@ nav_order: 6
     {{ item.content }}  
   </div>  
 {% endfor %}
+</div>
