@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Conferences & Workshops  
-permalink: /conferences/  
+permalink: /events/  
 nav: true  
 nav_order: 6  
 ---  
