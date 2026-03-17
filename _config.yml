@@ -151,10 +151,8 @@ collections:
     output: true
   teachings:
     output: true
-  conferences:  
+  events:  
     output: true  
-    permalink: /conferences/:path/
-
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
