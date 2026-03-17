@@ -411,6 +411,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_proofstage/";
+            },},{id: "conferences-nc-function-theory-the-non-commutative-frontier-of-analysis-and-algebra",
+          title: 'NC function theory: The non-Commutative Frontier of Analysis and Algebra,',
+          description: "",
+          section: "Conferences",handler: () => {
+              window.location.href = "/conferences/2025-05-04/";
             },},{id: "news-i-have-been-awarded-a-vidi-grant-from-nwo-to-study-the-noncommutative-geometry-of-quantum-symmetric-domains",
           title: 'I have been awarded a Vidi Grant from NWO to study the Noncommutative...',
           description: "",
