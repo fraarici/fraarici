@@ -142,15 +142,18 @@ related_blog_posts:
 
 collections:
   books:
-    output: false
+    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
   teachings:
     output: true
+  conferences:  
+    output: true  
+    permalink: /conferences/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
