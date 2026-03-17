@@ -1,6 +1,6 @@
 ---  
 layout: page  
-title: Conferences & Workshops  
+title: events
 permalink: /events/  
 nav: true  
 nav_order: 6  
@@ -9,7 +9,7 @@ nav_order: 6
 {% assign future_conferences = site.events | where_exp: "item", "item.date >= site.time" | sort: 'date' %}  
 {% assign past_conferences = site.events | where_exp: "item", "item.date < site.time" | sort: 'date' | reverse %}  
   
-### Upcoming Conferences  
+### Upcoming Conferences and Workshops
 
   {% if future_conferences.size > 0 %}
 {% for item in future_conferences %}  
@@ -26,7 +26,7 @@ nav_order: 6
 {% endif %}
 
   
-### Past Conferences  
+### Past Events 
   
 {% for item in past_conferences %}  
   <div class="conference-item">  
