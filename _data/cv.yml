@@ -31,7 +31,7 @@ cv:
         studyType: MSc
         end_date: 2011-04-28
     Experience:
-     - company: Leiden University
+      - company: Leiden University
         location: Leiden, the Netherlands
         position: Assistant Professor (UD)
         start_date: 2019-09-01
