@@ -1,10 +1,10 @@
 cv:
   name: Francesca Arici
-  label: Assistant Professor (UD)
+  label: Associate Professor (UD)
   email: f.arici@math.leidenuniv.nl
   location: Leiden, the Netherlands
   image: "francesca-arici.jpg"
-  summary: Mathematician
+  summary: 
   social_networks:
     - network: GitHub
       username: fraarici
@@ -31,6 +31,11 @@ cv:
         studyType: MSc
         end_date: 2011-04-28
     Experience:
+     - company: Leiden University
+        location: Leiden, the Netherlands
+        position: Assistant Professor (UD)
+        start_date: 2019-09-01
+        end_date: 2026-08-31
       - company: Radboud University Nijmegen
         location: Nijmegen, the Netherlands
         position: NWO Veni Fellow
