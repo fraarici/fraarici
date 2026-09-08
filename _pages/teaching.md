@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 calendar: false
 ---
-# {% include courses.liquid %}
+{% include courses.liquid %}
 
 <!-- commented
 
