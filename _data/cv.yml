@@ -47,6 +47,11 @@ cv:
         location: Leipzig, Germany
         start_date: 2018-02-15
         end_date: 2019-03-31
+      - company: Radboud University Nijmegen
+        location: Nijmegen, the Netherlands
+        position: Postdoctoral fellow
+        start_date: 2018-02-14
+        end_date: 2015-09-15
     Languages:
       - name: Italian
         summary: "Native speaker"
