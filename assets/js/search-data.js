@@ -454,9 +454,9 @@ ninja.data = [{
           description: "In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra als aan toepassingen.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/lin-alg-1/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-master-colloquium",
+          title: 'Master Colloquium',
+          description: "This weekly colloquium is recommended for all first-year Master’s students and consists of a two-hour meeting each week. During this course you will become acquainted with your fellow Leiden Master’s students, with the mathematical environment in Leiden and with the options that await you after completing the programme. You will practise giving a short mathematical talk and writing a CV for a job application.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/mColl/";
             },},{
