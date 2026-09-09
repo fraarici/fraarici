@@ -7,6 +7,6 @@ year: 2026-2027
 term: Yearly
 location: Gorlaeus Building BW0.17
 time: Fridays, 13:15-15:00
-course_id: [4373MCOLQY](https://studiegids.universiteitleiden.nl/modules/4373MCOLQY?year=2261)
-schedule: 
+course_id: 4373MCOLQY
+schedule:
 ---
